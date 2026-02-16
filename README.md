@@ -8,3 +8,6 @@ Aplicación web sencilla para gestionar tareas.
 ## Próximas mejoras
 - Eliminar tareas
 - Marcar tareas como completadas
+
+## Nueva mejora añadida
+- Botón para eliminar tareas (interfaz básica)
